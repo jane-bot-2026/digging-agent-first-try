@@ -7,16 +7,17 @@
 
 ## Who I am
 
-*One or two sentences about your role and where you work. The agent uses this for register and framing.*
-
-**Example:**
-I'm a health policy reporter at a UK national paper. I write for a general audience but my readers expect more than press-release rewrites — they want to understand what a policy change means for them.
+*I'm an investigative and political correspondent covering Jewish issues for a UK Jewish newspaper. I write for a Jewish audience, but sometimes the general public also reads my work. My readers expect more than press-release rewrites - they want to understand what the political landscape means for the Jewish community, what matters to the Jewish community, and what stories affect the Jewish community.*
 
 ---
 
 ## My beat
 
-*What you cover, in your own words. Be specific — "health" is too broad; "NHS workforce, primary care reform, and pharma pricing" is the level of detail that helps.*
+*- Antisemitism (anti-Jewish sentiment) and anti-Zionism in UK local councils
+- Antisemitism and anti-Zionism in the UK national government
+- Antisemitism and anti-Zionism in UK political parties, including: the Labour Party, the Conservative Party, the Liberal Democrats, the Green Party, Reform UK, Restore Britain.
+- Policy that affects the Jewish community (Kosher meat / shahita / Jewish schools and education / antisemitism on campus / antisemitism in the NHS / foreign policy relating to Israel)
+- Significant Jewish figures in politics and references to their Jewish identity (Sarah Sackman, Lady Victoria Starmer, Lord Pickles, Richard Hermer etc) *
 
 **Example:**
 - NHS England policy and operations (workforce, waiting lists, primary care reform)
